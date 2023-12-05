@@ -1,0 +1,13 @@
+/* The animation code */
+@keyframes bounce {
+  0%   {scale: 1;}
+  25%  {scale: 1.25;}
+  50%  {scale: 1.5;}
+  75% {scale: 1.25;}
+  100% {scale: 1;}
+}
+
+.kidnap{
+  animation-name: bounce;
+  animation-duration: 1s;
+};
