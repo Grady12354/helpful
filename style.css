@@ -15,6 +15,10 @@
 
 .kidnap{
   animation-name: bounce;
-  animation-duration: 1s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 };
+
+.kidnap {-webkit-transform: rotate(7deg);}
+.kidnap {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;}
