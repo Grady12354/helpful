@@ -17,8 +17,8 @@
   animation-name: bounce;
   animation-duration: 2s;
   animation-iteration-count: infinite;
+  -webkit-transform: rotate(7deg);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: silver;
 };
 
-.kidnap {-webkit-transform: rotate(7deg);}
-.kidnap {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;}
