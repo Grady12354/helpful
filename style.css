@@ -17,7 +17,7 @@
   -webkit-transform: rotate(7deg);
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   animation-name: bounce;
-  animation-duration: 2s;
+  animation-duration: 1.5s;
   animation-iteration-count: infinite;
 };
 
