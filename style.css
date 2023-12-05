@@ -16,7 +16,6 @@
 .kidnap{
   -webkit-transform: rotate(7deg);
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  color: silver;
   animation-name: bounce;
   animation-duration: 2s;
   animation-iteration-count: infinite;
